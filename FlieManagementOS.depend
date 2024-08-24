@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1724491165 source:/home/hp/Desktop/OS_Project/FlieManagementOS/main.cpp
+	<iostream>
+	<string>
+
+1724493007 source:/home/hp/Desktop/OS_Project/FlieManagementOS/ProcessHandler.cpp
+	<iostream>
+	<cstdlib>
+	<unistd.h>
+	<sys/stat.h>
+	<cstdio>
+	<dirent.h>
+	<algorithm>
+	<vector>
+	<fstream>
+
